@@ -1,0 +1,3 @@
+# Learning Journal day 8  
+
+Today we learned about forms/events and it had its ups and downs. To start out it seemed very confusing, especially when learning event in JS. Form in HTML were pretty straight forward as usual, but events were a bit scary! I was even more worried because I had to go home durn lunch and would miss lab meaning if i ran into any troubled I'd probably be screwed! Well I made it work! I surprised myself that I was able to get it to work without any assistance because I've need quite a bit of assistance with this week's project so far. I did use today's code demo as a good reference, but I'm still proud nonetheless. Creating the even was actually a lot easier than I expected!!  
